@@ -2,7 +2,7 @@
 
 Hello class for this lesson we are going to focus on setting up. 
 
-Step 1: Create a Github Account. This should already done because you're reading this.
+Step 1: Create a <a href="https://github.com/" target="_blank">Github</a> Account. This should already done because you're reading this. 
 
 Step 2: Download and install <a href="https://desktop.github.com/" target="_blank">Github Desktop</a>.<br />
     -login to your newly created git account.
